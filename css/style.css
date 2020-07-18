@@ -1,0 +1,27 @@
+/*************** Tag Selectors*******************/
+
+body {
+  background-color: mistyrose;
+}
+
+h1{
+  color: #381460;
+}
+h3{
+  color: #381460;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 30%;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+/*************** class Selectors*******************/
+
+.circular{
+  border-radius: 100%;
+}
